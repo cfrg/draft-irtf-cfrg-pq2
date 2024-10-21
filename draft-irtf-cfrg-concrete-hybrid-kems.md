@@ -1,10 +1,7 @@
----
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
-
+title: "Concrete Hybrid PQ/T Key Encapsulation Mechanisms"
+abbrev: concrete-hybrid-kems
 docname: draft-irtf-cfrg-concrete-hybrid-kems-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IRTF
 number:
 date:
 consensus: true
@@ -12,22 +9,25 @@ v: 3
 area: "IRTF"
 workgroup: "Crypto Forum"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - post quantum
+ - kem
+ - PQ
+ - hpke
+ - hybrid encryption
+
 venue:
   group: "Crypto Forum"
   type: "Research Group"
   mail: "cfrg@ietf.org"
-  arch: "https://mailarchive.ietf.org/arch/browse/cfrg"
-  github: "cfrg/draft-irtf-cfrg-pq2"
-  latest: "https://cfrg.github.io/draft-irtf-cfrg-pq2/draft-irtf-cfrg-concrete-hybrid-kems.html"
+  arch: "https://mailarchive.ietf.org/arch/search/?email_list=cfrg"
+  github: "cfrg/draft-irtf-cfrg-concrete-hybrid-kems"
+  latest: "https://cfrg.github.io/draft-irtf-cfrg-concrete-hybrid-kems/draft-irtf-cfrg-concrete-hybrid-kems.html"
 
 author:
  -
-    fullname: "Deirdre Connolly"
-    organization: Your Organization Here
-    email: "durumcrustulum@gmail.com"
+    fullname: Deirdre Connolly
+    organization: SandboxAQ
+    email: durumcrustulum@gmail.com
 
 normative:
 
