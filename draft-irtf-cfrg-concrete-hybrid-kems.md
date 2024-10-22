@@ -1,3 +1,4 @@
+---
 title: "Concrete Hybrid PQ/T Key Encapsulation Mechanisms"
 abbrev: concrete-hybrid-kems
 docname: draft-irtf-cfrg-concrete-hybrid-kems-latest
@@ -44,7 +45,6 @@ TODO Abstract
 # Introduction
 
 TODO Introduction
-
 
 # Conventions and Definitions
 
