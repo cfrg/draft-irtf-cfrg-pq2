@@ -1,6 +1,8 @@
 ---
 title: "Concrete Hybrid PQ/T Key Encapsulation Mechanisms"
 abbrev: concrete-hybrid-kems
+category: info
+
 docname: draft-irtf-cfrg-concrete-hybrid-kems-latest
 submissiontype: IRTF
 number:
